@@ -67,3 +67,17 @@
   - Overcame Yesform B2B SaaS template; eliminated vendor watermark, replaced foreign stock photos with certified agricultural C-level profiles, injected 3 registered patents and DB Insurance consortium details.
 - **Case 2: Flying Planner (도심항공 UAM & 버티포트 IR 제안서)**:
   - Applied the exact same aesthetic to Registered Patent No. 10-2025-0111564; generated 5-party sync UAM flight planning narrative, dual passenger/vertiport operator personas, and digital twin vertiport control architecture.
+
+---
+
+## 🌟 Iteration 06: Surgical Remake & 1:1 QA Gap Analysis (from vd26)
+- **4-Asset DNA Extraction**: Extracts `BUSINESS_DNA.md`, `DESIGN.md` (8-Element table), `STYLE.md`, and `TEMPLATE.md`.
+- **Gen-1 100% Exact Replica**: Replicates exact text, units, and coordinates (`scripts/replicate_v1_exact.py`).
+- **1:1 QA & Gap Analysis**: Audits under/over-engineered components and proposes strategic enhancements.
+- **Gen-2 Boardroom Master Polish**: Adds hero card accents, micro-tags, and contrast optimization (`scripts/replicate_v2_enhanced.py`).
+
+---
+
+## 📜 License
+MIT License
+>>>>>>> 0f59e59 (feat: Add Iteration 06 (4-Asset extraction, 100% exact replica, 1:1 QA gap analysis, and boardroom polish))
